@@ -4,7 +4,7 @@ We're a small startup and always looking for people to help us build a translati
 
 ## Stack
 
-We use Koa (Node), GraphQL , MongoDB & React with Gatsby and would like you to use the same. DB isn't as important; if you know your way around something else, that's fine here, too.
+We use Node (Koa), GraphQL (Apollo), MongoDB & React with Gatsby and would like you to use the same. DB isn't as important; if you know your way around something else, that's fine here, too.
 
 ## Challenge
 
