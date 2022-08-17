@@ -1,6 +1,6 @@
 # Linguala Challenge
 
-We're a small startup and always looking for people to help us build a translation web-platform. This repo is an easy way to show off what you know & what you've learned.
+We're a small startup and always looking for people to help us build a web-platform all about language services. This repo is an easy way to show off what you know & what you've learned.
 
 ## Stack
 
