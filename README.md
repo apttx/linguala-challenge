@@ -15,5 +15,5 @@ We've got three topics we're currently working on:
 
 You don't have to know all of this. Pick the one you're familiar with & mock the rest as you need it.
 
-- [App](challenges/app.md)
-- [Authentication](challenges/auth.md)
+- [App](packages/app/README.md)
+- [Authentication](packages/auth/README.md)
