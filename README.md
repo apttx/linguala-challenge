@@ -17,3 +17,4 @@ You don't have to know all of this. Pick the one you're familiar with & mock the
 
 - [App](packages/app/README.md)
 - [Authentication](packages/auth/README.md)
+- [Server](packages/auth/README.md)
