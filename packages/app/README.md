@@ -6,7 +6,7 @@
 
 1. Set up a SvelteKit project with
   - Tailwind
-  - Open Sans
+  - Open Sans ([`@font-source/open-sans`](https://www.npmjs.com/package/@fontsource/open-sans) is a pretty cool package)
   - Colours
     - #1CB569
     - #0D8767
@@ -19,8 +19,9 @@
     - #8494AD
     - #A0ADC0
 2. Implement a home page
+  - Move re-used elements to a components folder (component library)
 3. Implement a profile list page
-  - Query https://api-staging.linguala.com/graphql
+  - Query https://api-staging.linguala.com/graphql with [houdini](https://www.npmjs.com/package/houdini)
   - Display some amount of profiles on first load
   - Implement a button to load more profiles after the fact
   - Implement a way to filter profiles by service group
